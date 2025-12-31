@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ardi Ferdinan
-- 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning Flutter, React Native
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning Pentest @PwN College
 - 📫 How to reach me just email me on ardiferdinan25@gmail.com
 
 <!---
